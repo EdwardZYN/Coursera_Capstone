@@ -1,2 +1,2 @@
-# Coursera_Capstone
-This is a Coursera capstone project for python
+# IBM Data Science Capstone Project
+This is the IBM Data Science Capstone Project
